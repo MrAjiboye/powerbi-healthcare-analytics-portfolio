@@ -217,14 +217,6 @@ Based on the analysis, key recommendations include:
 
 ---
 
-## 🤝 Connect With Me
-
-📧 Email: your.email@example.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
-🌐 Portfolio: [yourwebsite.com](#)  
-
----
-
 ## 📝 License
 
 This portfolio project is available for viewing and evaluation purposes. Please contact me before using any content or code for commercial purposes.
